@@ -1,3 +1,7 @@
+# NOTE:
+Initial fork for firefox version
+
+
 # Aria2 Explorer <span style="float:right">[[中文]](README.cn.md)</span>
 
 **Aria2 Explorer** is an extension that could export URLs to Aria2 to complete downloads and imports [AriaNG](https://www.github.com/mayswind/AriaNg/) as a built-in management frontend.
